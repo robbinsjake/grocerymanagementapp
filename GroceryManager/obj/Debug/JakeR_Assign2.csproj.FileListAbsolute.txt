@@ -1,0 +1,11 @@
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\bin\Debug\JakeR_Assign2.exe.config
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\bin\Debug\JakeR_Assign2.exe
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\bin\Debug\JakeR_Assign2.pdb
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\obj\Debug\JakeR_Assign2.csproj.AssemblyReference.cache
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\obj\Debug\JakeR_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\obj\Debug\JakeR_Assign2.Form1.resources
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\obj\Debug\JakeR_Assign2.Properties.Resources.resources
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\obj\Debug\JakeR_Assign2.csproj.GenerateResource.cache
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\obj\Debug\JakeR_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\obj\Debug\JakeR_Assign2.exe
+C:\Users\jaker\OneDrive\Desktop\JakeR_Assign2\JakeR_Assign2\obj\Debug\JakeR_Assign2.pdb
